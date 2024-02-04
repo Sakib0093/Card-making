@@ -6,7 +6,7 @@
    margin: 20px;
    box-sizing: border-box;
    box-shadow: 8px 8px 5px black;
-   padding: 10px;
+
 }
 .front-img{
     width: 100%;
@@ -23,7 +23,7 @@
 .card-drescripsion {
     background: black;
     color: white;
-    padding: 5px;
+    padding: 10px;
 
 text-align: justify;
 line-height: 1.9em;
